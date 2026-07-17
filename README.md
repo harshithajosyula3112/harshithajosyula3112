@@ -27,6 +27,8 @@ Data analyst who speaks both SQL and boardroom. I build the dashboards leaders t
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshithajosyula3112&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=harshithajosyula3112&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Impact by the numbers
+- 📉 30% SQL efficiency improvement saving 15 hours/week at DBS Tech India
+- 📊 12% margin improvement through predictive pricing models
+- ⚡ Reduced reporting cycles from weekly to daily for state-level leadership at UMBC
+- 🎯 35% improvement in resource allocation precision across 500+ service recipients
