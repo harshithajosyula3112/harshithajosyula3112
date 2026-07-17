@@ -8,10 +8,10 @@ I turn complex data into decisions that actually get made.
 - 📊 Power BI Data Analyst (PL-300) certified
 
 ## What I do
-- **Analytics & Insights** — SQL, Python, R, statistical modeling, predictive analytics, A/B testing, KPI design
-- **BI & Visualization** — Power BI (DAX, Power Query), Tableau, Looker, executive dashboards, data storytelling
-- **Data Engineering** — ETL pipelines, dbt, Snowflake, BigQuery, GCP, data quality frameworks
-- **AI-Augmented Analytics** — LLM APIs, automated reporting, NLP, Claude Code, Cursor
+- **Analytics & Insights** - SQL, Python, R, statistical modeling, predictive analytics, A/B testing, KPI design
+- **BI & Visualization** - Power BI (DAX, Power Query), Tableau, Looker, executive dashboards, data storytelling
+- **Data Engineering** - ETL pipelines, dbt, Snowflake, BigQuery, GCP, data quality frameworks
+- **AI-Augmented Analytics** - LLM APIs, automated reporting, NLP, Claude Code, Cursor
 
 ## Featured Projects
 - 📈 **[Earnings Call Sentiment Analyzer](https://github.com/harshithajosyula3112)** — LLM-powered NLP pipeline analyzing earnings transcripts with 61.4% directional accuracy, live Streamlit dashboard
