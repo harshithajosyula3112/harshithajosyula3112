@@ -3,8 +3,8 @@
 I turn complex data into decisions that actually get made.
 
 ## What I'm working on
-- 🔭 Building investment signal analytics at GK Advisors — SQL pipelines, Power BI dashboards, and predictive models analyzing 3.5M+ SEC financial disclosures daily
-- 🌱 AI-augmented analytics — using Claude Code and the Anthropic Claude API to automate reporting workflows and extract structured insights from large unstructured datasets
+- 🔭 Building investment signal analytics at GK Advisors - SQL pipelines, Power BI dashboards, and predictive models analyzing 3.5M+ SEC financial disclosures daily
+- 🌱 AI-augmented analytics - using Claude Code and the Anthropic Claude API to automate reporting workflows and extract structured insights from large unstructured datasets
 - 📊 Power BI Data Analyst (PL-300) certified
 
 ## What I do
