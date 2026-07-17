@@ -14,7 +14,7 @@ I turn complex data into decisions that actually get made.
 - **AI-Augmented Analytics** - LLM APIs, automated reporting, NLP, Claude Code, Cursor
 
 ## Featured Projects
-- 📈 **[Earnings Call Sentiment Analyzer](https://github.com/harshithajosyula3112)** — LLM-powered NLP pipeline analyzing earnings transcripts with 61.4% directional accuracy, live Streamlit dashboard
+- 📈 **[Earnings Call Sentiment Analyzer](https://github.com/harshithajosyula3112)** - LLM-powered NLP pipeline analyzing earnings transcripts with 61.4% directional accuracy, live Streamlit dashboard
 - 🌊 **iHARP ML Challenge** - End-to-end forecasting pipeline using LSTM and XGBoost on NOAA coastal flooding data
 - 🎬 **Hybrid Netflix Recommendation Engine** - Content-based recommendation system with 65% similarity accuracy, live Streamlit app
 
