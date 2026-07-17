@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Harshitha Josyula 👋
 
 I turn complex data into decisions that actually get made.
