@@ -15,8 +15,8 @@ I turn complex data into decisions that actually get made.
 
 ## Featured Projects
 - 📈 **[Earnings Call Sentiment Analyzer](https://github.com/harshithajosyula3112)** — LLM-powered NLP pipeline analyzing earnings transcripts with 61.4% directional accuracy, live Streamlit dashboard
-- 🌊 **iHARP ML Challenge** — End-to-end forecasting pipeline using LSTM and XGBoost on NOAA coastal flooding data
-- 🎬 **Hybrid Netflix Recommendation Engine** — Content-based recommendation system with 65% similarity accuracy, live Streamlit app
+- 🌊 **iHARP ML Challenge** - End-to-end forecasting pipeline using LSTM and XGBoost on NOAA coastal flooding data
+- 🎬 **Hybrid Netflix Recommendation Engine** - Content-based recommendation system with 65% similarity accuracy, live Streamlit app
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/harshitha-josyula-a348b91a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitha.josyula3112@gmail.com) 
