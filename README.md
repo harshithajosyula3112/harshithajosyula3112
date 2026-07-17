@@ -18,11 +18,6 @@ I turn complex data into decisions that actually get made.
 - 🌊 **iHARP ML Challenge** — End-to-end forecasting pipeline using LSTM and XGBoost on NOAA coastal flooding data
 - 🎬 **Hybrid Netflix Recommendation Engine** — Content-based recommendation system with 65% similarity accuracy, live Streamlit app
 
-## Stack
-# 💫 About Me:
-I turn complex data into decisions that actually get made.<br>With 3+ years of experience across financial services, investment research, and higher education analytics, I build the SQL pipelines, Power BI dashboards, and predictive models that senior leadership relies on to move faster and with more confidence. I have driven a 12% margin improvement through pricing analytics, achieved 30% SQL efficiency gains saving 15 hours per week, and reduced reporting cycles from weekly to daily for state-level institutional leadership.<br>My technical stack includes SQL, Python, R, Power BI (PL-300 certified), Tableau, BigQuery, Snowflake, and dbt. I am also deeply fluent in AI-augmented analytics — I use Claude Code and the Anthropic Claude API in production to automate reporting workflows and extract structured insights from large unstructured datasets at scale.<br>What makes me effective is the combination of technical depth and business translation. I do not just surface numbers — I tell the story behind them and make a recommendation. I have presented findings to senior executives, state-level leadership, and investment committees, and I know how to tailor complexity to the audience in the room.<br>Currently exploring Data Analyst, People Analyst, BI Analyst, and Analytics Engineer opportunities across multiple industries. Open to roles across the US.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/harshitha-josyula-a348b91a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitha.josyula3112@gmail.com) 
 
